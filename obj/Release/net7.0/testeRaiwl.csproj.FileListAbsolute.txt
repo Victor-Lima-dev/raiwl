@@ -29,3 +29,8 @@ C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\obj\Release\
 C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\obj\Release\net7.0\testeRaiwl.pdb
 C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\obj\Release\net7.0\testeRaiwl.genruntimeconfig.cache
 C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\obj\Release\net7.0\ref\testeRaiwl.dll
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\bin\Release\net7.0\out\web.config
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\bin\Release\net7.0\out\appsettings.Development.json
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\bin\Release\net7.0\out\appsettings.json
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\bin\Release\net7.0\out\testeRaiwl.deps.json
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\bin\Release\net7.0\out\testeRaiwl.runtimeconfig.json

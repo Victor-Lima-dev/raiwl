@@ -1,0 +1,7 @@
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\out\testeRaiwl.exe
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\out\appsettings.Development.json
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\out\appsettings.json
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\out\testeRaiwl.dll
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\out\testeRaiwl.deps.json
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\out\testeRaiwl.runtimeconfig.json
+C:\Users\vlima06\OneDrive - JACTO\Área de Trabalho\code\testeRaiwl\out\testeRaiwl.pdb
